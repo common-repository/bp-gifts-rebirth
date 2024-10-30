@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-gifts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-17 12:31+0100\n"
+"PO-Revision-Date: 2012-04-17 12:34+0100\n"
+"Last-Translator: Sławomir Kroczak <slawomir.kroczak@gmial.com>\n"
+"Language-Team: n-ideas <s.kroczak@n-ideas.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../templates/gifts\n"
+
+#: ../bp-gifts-admin-network.php:74
+#: ../bp-gifts-admin.php:73
+msgid "Gift item was upload successfully! <br/>"
+msgstr "Grafika prezentu została pomyślnie wczytana! <br/>"
+
+#: ../bp-gifts-admin-network.php:80
+#: ../bp-gifts-admin.php:79
+msgid "Gifts Image already exist!!"
+msgstr "Ten prezent już istnieje"
+
+#: ../bp-gifts-admin-network.php:84
+#: ../bp-gifts-admin.php:83
+msgid "Please upload only JPG GIF or PNG image!!"
+msgstr "Proszę wgrywać grafikę z rozszerzeniem JPG GIF lub PNG!"
+
+#: ../bp-gifts-admin-network.php:125
+#: ../bp-gifts-admin.php:124
+msgid "Gift item was deleted successfully!"
+msgstr "Grafika prezentu została usunięta pomyślnie"
+
+#: ../bp-gifts-admin-network.php:127
+#: ../bp-gifts-admin.php:126
+msgid "Error !!! Can not delete gift item."
+msgstr "Błąd!!! Nie można usunąć tego prezentu"
+
+#: ../bp-gifts-admin-network.php:135
+#: ../bp-gifts-admin.php:134
+msgid "Gifts Item Admin"
+msgstr "Prezenty (Strona administracyjna)"
+
+#: ../bp-gifts-admin-network.php:149
+#: ../bp-gifts-admin.php:148
+msgid "Gift name"
+msgstr "Nazwa prezentu"
+
+#: ../bp-gifts-admin-network.php:159
+#: ../bp-gifts-admin.php:158
+msgid "Category"
+msgstr "Kategoria"
+
+#: ../bp-gifts-admin-network.php:169
+#: ../bp-gifts-admin.php:168
+msgid "Point"
+msgstr "Punkty"
+
+#: ../bp-gifts-admin-network.php:185
+#: ../bp-gifts-admin.php:184
+#: ../bp-gifts-core.php:474
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
+
+#: ../bp-gifts-admin-network.php:217
+#: ../bp-gifts-admin.php:216
+msgid "Gifts Admin"
+msgstr "Prezenty ( administracja)"
+
+#: ../bp-gifts-admin-network.php:223
+#: ../bp-gifts-admin.php:222
+msgid "Settings Updated."
+msgstr "Ustawienia zapisane"
+
+#: ../bp-gifts-admin-network.php:225
+#: ../bp-gifts-admin.php:224
+msgid "Gifts Uploaded."
+msgstr "Prezenty wczytane."
+
+#: ../bp-gifts-admin-network.php:237
+#: ../bp-gifts-admin.php:236
+msgid "Select Gift Image to Upload *"
+msgstr "Wybierz grafikę prezentu aby ją wgrać na serwer *"
+
+#: ../bp-gifts-admin-network.php:243
+#: ../bp-gifts-admin.php:242
+msgid "Upload"
+msgstr "Wczytaj"
+
+#: ../bp-gifts-ajax.php:9
+msgid "send "
+msgstr "przesłał "
+
+#: ../bp-gifts-ajax.php:9
+msgid "to "
+msgstr "dla "
+
+#: ../bp-gifts-ajax.php:9
+msgid " "
+msgstr " "
+
+#: ../bp-gifts-ajax.php:19
+msgid "Gifts was sent !"
+msgstr "Prezent został wysłany!"
+
+#: ../bp-gifts-core.php:169
+#: ../bp-gifts-core.php:185
+msgid "Buddypress Gifts"
+msgstr "Buddypress Gifts"
+
+#: ../bp-gifts-core.php:169
+#: ../bp-gifts-core.php:185
+msgid "Gifts Setup"
+msgstr "Prezenty"
+
+#: ../bp-gifts-core.php:223
+#: ../bp-gifts-core.php:541
+msgid "Gifts"
+msgstr "Prezenty"
+
+#: ../bp-gifts-core.php:434
+msgid "Gifts Settings Header"
+msgstr "Prezenty ( Ustawianie nagłowka )"
+
+#: ../bp-gifts-core.php:442
+msgid "Gifts Settings"
+msgstr "Prezenty ustawienia"
+
+#: ../bp-gifts-core.php:458
+msgid "Changes Saved."
+msgstr "Zmiany zapisane."
+
+#: ../bp-gifts-core.php:470
+msgid "Do you love clicking checkboxes?"
+msgstr "Kochasz klikać checkbox-y?"
+
+#: ../bp-gifts-core.php:543
+msgid "Yes"
+msgstr "Tak"
+
+#: ../bp-gifts-core.php:545
+msgid "No"
+msgstr "Nie"
+
+#: ../bp-gifts-core.php:554
+msgid "You received new gifts"
+msgstr "Informacja o otrzymaniu nowego prezentu"
+
+#: ../bp-gifts-core.php:644
+msgid "Multiple gifts"
+msgstr "Wiele prezentów"
+
+#: ../bp-gifts-core.php:644
+#, php-format
+msgid "%d new gifts, multi-gifts!"
+msgstr "%d nowe prezenty!"
+
+#: ../bp-gifts-core.php:652
+#, php-format
+msgid "%s sent you a high-five!"
+msgstr "%s sent you a high-five!"
+
+#: ../bp-gifts-notifications.php:69
+#, php-format
+msgid "%s send gifts to you!"
+msgstr "%s wysłał Ci prezent!"
+
+#: ../bp-gifts-notifications.php:75
+#, php-format
+msgid ""
+"%s sent you a new gifts! Why not send one back?\n"
+"\n"
+"\n"
+"\n"
+"Check your new gifts: %s\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"To see %s's profile: %s\n"
+"\n"
+"\n"
+"\n"
+"To send %s a gifts: %s\n"
+"\n"
+"\n"
+"\n"
+"---------------------\n"
+"\n"
+msgstr ""
+"%s wysłał Ci nowy prezent! Dlaczego również nie obdarować tego użytkonika super prezentem?\n"
+"\n"
+"\n"
+"\n"
+"Zobacz swoje nowe prezenty: %s\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Aby zobaczyć profil %s  kliknij tutaj: %s\n"
+"\n"
+"\n"
+"\n"
+"Aby wysłać prezent dla %s kliknij tutaj: %s\n"
+"\n"
+"\n"
+"\n"
+"---------------------\n"
+"\n"
+
+#: ../bp-gifts-notifications.php:99
+#, php-format
+msgid "To disable these notifications please log in and go to: %s"
+msgstr "Aby wyłączyć powiadomienie o otrzymaniu prezentów zaloguj się do serwisu a następnie kliknij tutaj: %s"
+
+#: ../templates/gifts/screen - Copy.php:51
+#: ../templates/gifts/screen.php:51
+msgid "Your Gifts"
+msgstr "Twoje prezenty"
+
+#: ../templates/gifts/screen - Copy.php:51
+#: ../templates/gifts/screen.php:51
+#, php-format
+msgid "%s' Gifts"
+msgstr "Prezenty użytkownika  - %s"
+
+#: ../templates/gifts/screen - Copy.php:71
+#: ../templates/gifts/screen.php:71
+msgid "We are very sorry but it seems that you do not have enough points to sent a gift:"
+msgstr "Bardzo nam przykro, ale wygląda na to, że nie masz wystarczającej liczby punktów aby wysłać prezent."
+
+#: ../templates/gifts/screen - Copy.php:72
+#: ../templates/gifts/screen.php:72
+msgid "You need at least: "
+msgstr "Potrzebujesz conajmniej:  "
+
+#: ../templates/gifts/screen - Copy.php:72
+#: ../templates/gifts/screen.php:72
+msgid " Points"
+msgstr " Puntków"
+
+#: ../templates/gifts/screen - Copy.php:288
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Komentarz <span>%s</span>"
+
+#: ../templates/gifts/screen - Copy.php:298
+msgid "Mark as Favorite"
+msgstr "Oznacz jak ulubione"
+
+#: ../templates/gifts/screen - Copy.php:298
+msgid "Favorite"
+msgstr "Ulubione"
+
+#: ../templates/gifts/screen - Copy.php:302
+msgid "Remove Favorite"
+msgstr "Usuń z ulubionych"
+
+#: ../templates/gifts/screen - Copy.php:338
+#: ../templates/gifts/screen.php:324
+msgid "Post"
+msgstr "Publikuj"
+
+#: ../templates/gifts/screen - Copy.php:338
+#: ../templates/gifts/screen.php:324
+msgid "or press esc to cancel."
+msgstr "lub przyciśnij esc aby anulować."
+
+#: ../templates/gifts/screen - Copy.php:376
+#: ../templates/gifts/screen.php:362
+msgid "You still don't have any gift yet!"
+msgstr "Niestety nie masz jeszcze żadnych prezentów!"
+
+#: ../templates/gifts/screen - Copy.php:376
+#: ../templates/gifts/screen.php:362
+#, php-format
+msgid "Either %s hasn't received any gift yet or they have restricted access"
+msgstr "Prawdopodobnie użytkownik %s nie otrzymał jeszcze żadnego prezentu lub ma ograniczony dostęp do tej strony"
+
+#: ../templates/gifts/screen.php:270
+msgid "In reply to: "
+msgstr "W odpowiedzi do:"
+
+#: ../templates/gifts/screen.php:270
+msgid "View Thread / Permalink"
+msgstr "Zobacz wątek / odnośnik"
+
+#: ../templates/gifts/screen.php:270
+msgid "View"
+msgstr "Zobacz"
+
